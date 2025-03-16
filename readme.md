@@ -43,6 +43,7 @@ venv\Scripts\activate
 ## Output
 Here is an example output of the application:
 
-![Project Output]("C:\Appilcation-Tracking-System\assets\127.0.0.1_5000_.png")
+![Project Output]![image](https://github.com/user-attachments/assets/887996e7-1414-45ba-897c-865e89160cd5)
+
 
 
