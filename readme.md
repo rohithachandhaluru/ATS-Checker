@@ -43,7 +43,7 @@ venv\Scripts\activate
 ## Output
 Here is an example output of the application:
 
-![Project Output]![image](https://github.com/user-attachments/assets/887996e7-1414-45ba-897c-865e89160cd5)
+![image](https://github.com/user-attachments/assets/887996e7-1414-45ba-897c-865e89160cd5)
 
 ## watch video on youtube
 https://youtu.be/x4MAp047oMk?si=us9uA8n9GDGbYwdO
